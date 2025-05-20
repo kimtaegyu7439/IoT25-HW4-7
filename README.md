@@ -36,6 +36,9 @@ To implement Bluetooth Low Energy communication between two ESP32 devices acting
 
 ![HW5 Result](https://github.com/user-attachments/assets/405e6b7f-0e68-4163-8b93-6e49beb18ab6)
 
+**Demo Video:**  
+🎥 [https://youtu.be/JhUhMVVAv-8](https://youtu.be/JhUhMVVAv-8)
+
 ---
 
 ## HW6. ESP32 Web Server
