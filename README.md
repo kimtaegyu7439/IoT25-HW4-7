@@ -97,12 +97,4 @@ An LED blinks when the detected distance is less than a predefined threshold (e.
 ![LED Alert](https://github.com/user-attachments/assets/061c3d9a-73fd-4dbf-84cf-9f6fb3ef5ddb)
 ![Live Feedback](https://github.com/user-attachments/assets/91c02561-35cd-4fdc-9ac4-5d3bf9833a55)
 
----
 
-## Submission
-
-- Due Date: May 20, 2025 (Tue), 23:00
-- HW4~HW6: 10 pts each
-- HW7: 20 pts (+ up to 10 bonus pts)
-- Each assignment is submitted via a separate GitHub repository  
-(e.g., `IoT25-HW04`, `IoT25-HW05`, etc.)
